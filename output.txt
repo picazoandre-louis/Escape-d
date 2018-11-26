@@ -1,0 +1,32 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=63100:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\easto\IdeaProjects\Escape'd\out\production\Escape'd Main
+Welcome to the party House. You have 30 moves to escape. verbs to use: open, close, light, read, write, play, look, get; nouns to use: door, room, bench, chest, candle, note, matches, shelves, book, pen, scroll, music, trumpet, piano, drum, lock; movement: north, south, east, west;
+
+You find yourself in a large foyer. There is a shiny shiny door to the north. To the west is a nice boujee bench against the wall. To the east is a chest on the floor. It has some ice spilling out of it. In the center of the room is a large candle. It's pretty loud in here. The candle is unlit. You've got 30 moves left.
+>>open chest
+There are matches in the chest. You've got 29 moves left.
+>>get matches
+You have a box of matches. You've got 28 moves left.
+>>light candle
+The candle is lit. Don't Stop Me Now by Queen starts playing. You heard a metal grinding sound from the north. You've got 27 moves left.
+>>open door
+The north door is open. You've got 26 moves left.
+>>north
+You have left the foyer. On your way out, the door slammed and locked. You are startled and jump, hitting your head. You are now in the library and cannot return to the foyer. Sucks. In the library there are stacks of books lining the shelves, a desk, a pen, and a scroll. There is another locked door to the north. You have 25 moves left.
+>>get pen
+You have acquired the pen. You have 24 moves left.
+>>write book
+You have completed the autobiography You heard a metal grinding sound from the north. Skrillex starts playing. You have 23 moves left.
+>>open door
+The north door is open. You have 22 moves left.
+>>north
+ You have left the library. On your way out, the door slammed and locked. You are now in the conservatory and cannot return to the library. Sheesh you should've learned by now. In the conservatory there are there are three instruments: a trumpet, a piano, and a drum. There is a sheet of music on a stand. Play a lil sum. You have 21 moves left.
+>>trumpet
+In the conservatory there are there are three instruments: a trumpet, a piano, and a drum. There is a sheet of music on a stand. You have 20 moves left.
+>>play trumpet
+*trumpet noise* You have 19 moves left.
+>>play piano
+*piano noise* You have 18 moves left.
+>>play drum
+
+CongrAAAAAAAAAAAAATULATIONS! You have finessed this escape room challenge successfully with 17 moves to spare.
+Process finished with exit code 0
